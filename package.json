@@ -1,0 +1,13 @@
+{
+  "name": "trash-cans-near-me",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A free, client-only PWA to find public trash cans, recycling, disposal bins, and bag dispensers across the United States.",
+  "scripts": {
+    "serve": "http-server -c-1 -p 5173",
+    "serve:https": "http-server -S -C ./localhost.pem -K ./localhost-key.pem -c-1 -p 5173"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

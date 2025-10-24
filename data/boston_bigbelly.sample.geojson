@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "name": "boston_bigbelly_sample", "features": [{"type": "Feature", "properties": {"source": "Analyze Boston (sample)", "type": "trash", "name": "Big Belly (Sample)", "notes": "Replace data file or configure remote URL in main.js"}, "geometry": {"type": "Point", "coordinates": [-71.0621, 42.3606]}}]}
