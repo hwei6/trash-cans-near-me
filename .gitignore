@@ -12,3 +12,8 @@ yarn-error.log*
 dist/
 build/
 .cache/
+
+# Icon Intermediates
+icons/_trimmed_master.png
+icons/_square_master.png
+icons/mlb_trash_icon_orig.png
